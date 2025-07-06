@@ -61,3 +61,7 @@ Then:
 - Build extension: `npm run build`
 
 ---
+
+## 🖼️ Demo Screenshots 
+
+-
