@@ -107,3 +107,7 @@ View which websites are currently open and how long you've spent on them.
 #### c. After Blocking (Blocked Warning Page)
 ![After Blocking](assets/screenshots/site-after-blocking.png)
 
+#### d. Blocked Sites (List of Sites which are blocked)
+![After Blocking](assets/screenshots/blocked-sites.png)
+
+
