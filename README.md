@@ -110,4 +110,7 @@ View which websites are currently open and how long you've spent on them.
 #### d. Blocked Sites (List of Sites which are blocked)
 ![After Blocking](assets/screenshots/blocked-sites.png)
 
+---
 
+Made by **Sudhir**💖 
+[GitHub Profile](https://github.com/SudhirKannan)
