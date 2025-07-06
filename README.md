@@ -98,7 +98,7 @@ View which websites are currently open and how long you've spent on them.
 
 ### 🔒 5. Website Blocking Flow
 
-#### a. Before Blocking (Normal Website View)
+#### a. Before Blocking (Normal Website View) For Example : https://open.spotify.com/search 
 ![Before Blocking](assets/screenshots/site-before-blocking.png)
 
 #### b. Blocking the Website (Using the Extension UI)
