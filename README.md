@@ -62,6 +62,48 @@ Then:
 
 ---
 
-## 🖼️ Demo Screenshots 
+## 🖼️ Demo Screenshots
 
--
+Visual walkthrough of the Productivity Tracker Extension:
+
+---
+
+### 🏠 1. Home Page
+A quick overview of your productivity and usage stats.
+
+![Home Page](assets/screenshots/home-page.png)
+
+---
+
+### 🔧 2. Manage Extensions (chrome://extensions)
+Load and manage your extension from here.
+
+![Manage Extensions](assets/screenshots/manage-extensions.png)
+
+---
+
+### 🧩 3. Chrome Extension Popup
+The floating window that shows real-time website tracking and quick actions.
+
+![Extension Popup](assets/screenshots/extension-popup.png)
+
+---
+
+### ⏱️ 4. Track Time Spent on Websites
+View which websites are currently open and how long you've spent on them.
+
+![Tracking Open Sites](assets/screenshots/tracking-open-sites.png)
+
+---
+
+### 🔒 5. Website Blocking Flow
+
+#### a. Before Blocking (Normal Website View)
+![Before Blocking](assets/screenshots/site-before-blocking.png)
+
+#### b. Blocking the Website (Using the Extension UI)
+![Block Site UI](assets/screenshots/block-site-ui.png)
+
+#### c. After Blocking (Blocked Warning Page)
+![After Blocking](assets/screenshots/site-after-blocking.png)
+
