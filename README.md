@@ -69,7 +69,7 @@ Visual walkthrough of the Productivity Tracker Extension:
 ---
 
 ### 🏠 1. Home Page
-A quick overview of your productivity and usage stats.
+UI and Template of the Extension
 
 ![Home Page](assets/screenshots/home-page.png)
 
