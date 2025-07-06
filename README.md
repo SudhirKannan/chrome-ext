@@ -1,13 +1,13 @@
 # Productivity Tracker Chrome Extension
 
-A **Chrome extension** that helps you improve focus by tracking your website usage and blocking distractions.
+A **Chrome extension** that helps you improve focus by tracking your website usage and blocking distractions in real time.
 
 ---
 
 ## 🚀 Features
 
 - ⏱️ Track time spent on websites  
-- 🚫 Block distracting websites  
+- 🚫 Block distracting websites in **real time**  
 - 📊 View daily & weekly productivity reports  
 - 🔄 Sync across devices using a unique device ID  
 
@@ -29,35 +29,3 @@ cd backend
 npm install
 # Add your MongoDB connection string to .env
 npm run server
-```
-
-### 2. Frontend (Chrome Extension)
-
-```bash
-cd frontend
-npm install
-npm run build
-```
-
-Then:
-1. Open Chrome → `chrome://extensions`
-2. Enable **Developer mode**
-3. Click **Load unpacked** → select `frontend/dist` folder
-
----
-
-## 📡 API Overview (Simplified)
-
-- **/api/website-usage** – Save and fetch website usage  
-- **/api/website-usage/report** – Get daily/weekly reports  
-- **/api/blocked-sites** – Add, update, and remove blocked websites  
-
----
-
-## 📌 Dev Tips
-
-- Backend dev server: `npm run server`  
-- Frontend dev mode: `npm run dev`  
-- Build extension: `npm run build`
-
----
